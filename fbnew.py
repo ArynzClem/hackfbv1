@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-###---[ INFO AUTHOR GANS DIKIT ]---###
+###---[ INFO AUTHOR ArynzClem ]---###
 #----[ jangan RECODE KONTOL]-----#
 author = 'ArynzClem'
 git_hub = 'github.com/ArynzClem'
