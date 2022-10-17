@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 ###---[ INFO AUTHOR GANS DIKIT ]---###
-#----[ jangan di oprek, sayangi data hpmu ]-----#
-author = 'MsrXx'
-git_hub = 'github.com/RozhBasXYZ'
-faceb0ok = 'ROCHMAT BASUKI XD'
+#----[ jangan RECODE KONTOL]-----#
+author = 'ArynzClem'
+git_hub = 'github.com/ArynzClem'
+tiktok = 'MCA'
 version = 'next blade v.1'
 
 
